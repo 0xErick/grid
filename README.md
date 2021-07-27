@@ -32,3 +32,5 @@ AmountAccuracy=4.0  // 交易对数量小数点位数
 ```
 nohup ./grid > error.log 2>&1
 ```
+
+### QQ交流 1524915647
