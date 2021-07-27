@@ -5,3 +5,5 @@ db
 build
 solana-trade
 grid.db
+dot-trade
+grid
