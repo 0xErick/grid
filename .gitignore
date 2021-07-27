@@ -4,3 +4,4 @@ logs
 db
 build
 solana-trade
+grid.db
