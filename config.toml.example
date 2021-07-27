@@ -1,0 +1,13 @@
+AccessKey="XXX" //火币api
+SecretKey="yyy" //火币api 
+Host="api-aws.huobi.pro"
+Pair="dotusdt" 
+AmountPerTrade=250.0
+MaxOpenOrders=4
+Rate=10.0
+MaxPrice=25.0
+MinPrice=5.0
+DBPath="/home/mi/go-repos/grid/db/grid.db"
+WebhookURL="https://oapi.dingtalk.com/robot/send?access_token=xxx"
+PriceAccuracy=4.0
+AmountAccuracy=4.0

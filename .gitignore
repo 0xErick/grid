@@ -1,0 +1,6 @@
+config.toml
+vendor
+logs
+db
+build
+solana-trade
